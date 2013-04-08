@@ -1,0 +1,39 @@
+html
+{ 
+    height: 100%;
+}
+
+body
+{ 
+    background: #443636;
+    color: #555; 
+}
+
+#main
+{
+     width: 800px;
+     height: 400px;
+     margin: 100px auto;
+     background-color: #fff;
+}
+
+#instructions
+{
+    background-color:#9f7272;
+    position: absolute;
+    width: 160px;
+    height: 300px;
+    margin-left: 100px;
+}
+
+h3
+{
+    color: white;
+}
+
+p
+{
+    color: black;
+    margin: 5px;
+    margin-left: 12px;
+}
